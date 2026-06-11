@@ -2,7 +2,7 @@
 
 **A lightweight LLM inference gateway for routing, caching, and observability.**
 
-InferFlow is a demo-friendly full-stack project that simulates how production AI infrastructure routes prompt requests across multiple LLM providers. It helps explain key inference gateway ideas like routing policy, semantic caching, retries, latency, token usage, cost estimation, and live observability.
+InferFlow is a full-stack project that simulates how production AI infrastructure routes prompt requests across multiple LLM providers. It helps explain key inference gateway ideas like routing policy, semantic caching, retries, latency, token usage, cost estimation, and live observability.
 
 ## Why It Matters
 
